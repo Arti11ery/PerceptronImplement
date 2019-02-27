@@ -1,3 +1,4 @@
+```Matlab
 function step=Perceptron(k,e,m)
 [X,Y]=PerceptronData(k,e,m);
 w = zeros(k,1);
@@ -18,3 +19,4 @@ end
 b
 w
 step
+```
